@@ -65,7 +65,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #212529;
+  --bs-body-color: #010b42;
   --bs-body-bg: #fff;
   --bs-border-width: 1px;
   --bs-border-style: solid;
@@ -8041,7 +8041,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: #034C3C !important;
+  color: #010b42 !important;
 }
 
 .text-secondary {
@@ -8132,7 +8132,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: #034C3C !important;
+  background-color: #010b42 !important;
 }
 
 .bg-secondary {
